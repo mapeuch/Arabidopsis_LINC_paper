@@ -5,7 +5,7 @@
 # 10.1371/journal.pbio.1001930
 
 sims <- 10000 # number of runs
-path<-"//pnas1.stockage.inra.fr/versailles-ijpb3/EQUIPE/meiome/PROJECTS/Live meiosis/SINE_LINC/SINE3_MP_interference/"
+path<-"INSERT PATH/"
 file<-"sine3_MLH1_foci_positions.csv"
 
 ##################### Libraries ############################
