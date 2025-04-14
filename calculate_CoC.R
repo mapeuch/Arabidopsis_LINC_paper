@@ -1,7 +1,8 @@
 ##################### Parameters ###########################
 
-path<-"//pnas1.stockage.inra.fr/versailles-ijpb3/EQUIPE/meiome/PROJECTS/PSS1Geneticmaps/CoC/"
-file<-"wt_results.csv"
+path<-"INSERT PATH/"
+file<-"wt_results.csv" #choose either of the results file
+output_name<-"wt"
 bin_number<-15
 
 ##################### Libraries ############################
