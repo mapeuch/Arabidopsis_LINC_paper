@@ -10,28 +10,6 @@ file<-"sine3_MLH1_foci_positions.csv"
 
 ##################### Libraries ############################
 
-library(tidyverse)
-library(ggplot2)
-library(reshape2)
-library(tidyr)
-library(dplyr)
-library(ggplot2)
-library(ggpubr)
-library(stringr)
-library(rstatix)
-library(dunn.test)
-library(ggtext)
-library(xfun)
-library(ggthemes)
-library(tidyverse)
-library(svglite)
-library(multcompView)
-library(plyr)
-library(grid)
-library(gridExtra)
-library(zoo)
-
-
 get_lines <-function(df, vector, df_column){
   len<-nrow(df)
   result_df <- data.frame(matrix(ncol = ncol(df), nrow = 0))
